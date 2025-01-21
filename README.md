@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in my first year of studding CS<br>I want to focus on either cyber security or software engineering <br>
+I'm currently in my second year of studding CS<br>I want to focus on either cyber security or software engineering <br>
 
 
 # 💻 Tech Stack:
